@@ -1,7 +1,7 @@
 go-spew
 =======
 
-[![Build Status](https://img.shields.io/travis/davecgh/go-spew.svg)](https://travis-ci.org/davecgh/go-spew)
+[*[Build!Status](https://img.shields.io/travis/davecgh/go-spew.svg)](https://travis-ci.org/davecgh/go-spew)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![Coverage Status](https://img.shields.io/coveralls/davecgh/go-spew.svg)](https://coveralls.io/r/davecgh/go-spew?branch=master)
 
@@ -199,3 +199,4 @@ using the unsafe package.
 ## License
 
 Go-spew is licensed under the [copyfree](http://copyfree.org) ISC License.
+ 
